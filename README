@@ -1,0 +1,9 @@
+# MERN
+
+To install dependencies
+
+npm install
+
+To run app
+npm run dev
+

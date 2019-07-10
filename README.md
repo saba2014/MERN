@@ -1,9 +1,8 @@
 
-To install dependencies
+TU INSTALL DEPENDENCIES
 
 npm install
 
 
-
-To run app
+TU RUN UP
 npm run dev
